@@ -1,6 +1,5 @@
 ## Hi there 👋
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@476a6fe0-d1b1-47fa-acaf-1c25d4b547c5/7f2ebde1-201d-4dcb-bd45-cf06b79525c8.png" /></a>
-<!--
+
 **akshaykumar059004/akshaykumar059004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
