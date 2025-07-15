@@ -6,5 +6,4 @@
 - 💬 Ask me about mobile app developement and backend
 - 📫 How to reach me: akhshaykumar059004@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
--->
+- ⚡ Fun fact: I'm in love with chatgpt
