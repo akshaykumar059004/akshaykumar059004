@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Update WakaTime Stats
-        uses: akshaykumar059004/wakatime-stats@master  # Make sure '@master' or check correct branch/tag
+        uses: akshaykumar059004/wakatime-stats@main  # Make sure '@master' or check correct branch/tag
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
