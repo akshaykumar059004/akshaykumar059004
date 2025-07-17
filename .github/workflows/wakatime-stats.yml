@@ -7,7 +7,6 @@
 
  jobs:
  update-readme-with-wakatime-stats:
- name: Update README with Wakatime stats
  runs-on: ubuntu-latest
 
  steps:
