@@ -7,5 +7,5 @@
 - 📫 How to reach me: akhshaykumar059004@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm in love with chatgpt
-[//]: # (wakatime-stats)
-[//]: # (end-wakatime-stats)
+  [//]: # (wakatime-stats)
+  [//]: # (end-wakatime-stats)
