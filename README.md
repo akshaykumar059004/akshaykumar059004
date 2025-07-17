@@ -8,4 +8,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm in love with chatgpt
  <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+ <!--END_SECTION:waka-->
