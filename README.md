@@ -1,12 +1,12 @@
 ## Hi there 👋
 - 🔭 I’m currently working on PRADAN Forms Processing System
-- 🌱 I’m currently learning Typescript, Express, AWS
-- 👯 I’m looking to collaborate on Backend
-- 🤔 I’m looking for help with CI/CD pipelines
-- 💬 Ask me about mobile app developement and backend
+- 🌱 I’m currently learning Js, Laravel
+- 👯 I’m looking to collaborate on Backend, DevOps
+- 🤔 I’m looking for help with CI/CD pipelines and Laravel
+- 💬 Ask me about Software Development and Cloud Computing
 - 📫 How to reach me: akhshaykumar059004@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm in love with chatgpt
+- ⚡ Fun fact: I'm in love with chatgpt, claude
  <!--START_SECTION:waka-->
 
 ```rust
