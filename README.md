@@ -10,18 +10,18 @@
  <!--START_SECTION:waka-->
 
 ```rust
-From: 07 May 2025 - To: 19 August 2025
+From: 07 May 2025 - To: 20 August 2025
 
-Total Time: 53 hrs 16 mins
+Total Time: 53 hrs 28 mins
 
-JavaScript       20 hrs 58 mins  █████████▓░░░░░░░░░░░░░░░   38.75 %
-Blade Template   10 hrs 22 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.17 %
-TypeScript       9 hrs 59 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
-PHP              5 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
-Bash             1 hr 38 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-HTML             1 hr 33 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-SQL              52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Other            51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+JavaScript       21 hrs 10 mins  █████████▓░░░░░░░░░░░░░░░   38.97 %
+Blade Template   10 hrs 22 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.10 %
+TypeScript       9 hrs 59 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.40 %
+PHP              5 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+Bash             1 hr 38 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+HTML             1 hr 33 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+SQL              52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Other            51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
